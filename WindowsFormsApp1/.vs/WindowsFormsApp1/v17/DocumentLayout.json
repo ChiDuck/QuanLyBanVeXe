@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|c:\\users\\chidu\\downloads\\quanlybanvexe\\windowsformsapp1\\windowsformsapp1\\kiemsoatuser\\userchitietvexe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userchitietvexe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userlichtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userlichtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userdatve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userdatve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\bangdieukhien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\bangdieukhien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\bangdieukhien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\bangdieukhien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\bangdieukhien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\bangdieukhien.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|c:\\users\\chidu\\downloads\\quanlybanvexe\\quanlybanvexe\\windowsformsapp1\\windowsformsapp1\\bangdieukhien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\bangdieukhien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userlichtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userlichtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userdatve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userdatve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userchitietvexe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userchitietvexe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\bangdieukhien.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\bangdieukhien.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\bangdieukhien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\bangdieukhien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\bangdieukhien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userdatve.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userdatve.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userdatve.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userdatve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\kiemsoatuser\\userdatve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\QuanLyBanVeXe.csproj|solutionrelative:windowsformsapp1\\kiemsoatuser\\userdatve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\fromDangNhap.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\bangdieukhien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\fromDangNhap.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\bangdieukhien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\fromDangNhap.csproj|solutionrelative:windowsformsapp1\\bangdieukhien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\fromDangNhap.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\fromDangNhap.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\fromDangNhap.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\fromDangNhap.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\fromDangNhap.csproj|C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{713374A9-AF75-4AE5-8BF5-DC4DCFEDAF41}|WindowsFormsApp1\\fromDangNhap.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,102 +94,105 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserDatVe.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs",
-              "ToolTip": "C:\\Users\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:52:55.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "UserChiTietVeXe.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserChiTietVeXe.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserChiTietVeXe.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\KiemSoatUser\\UserChiTietVeXe.cs",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserChiTietVeXe.cs [Design]",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserChiTietVeXe.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp1\\KiemSoatUser\\UserChiTietVeXe.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T10:52:55.481Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-15T10:52:55.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserProfile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\KiemSoatUser\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserProfile.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\KiemSoatUser\\UserProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:52:55.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserProfile.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserProfile.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\KiemSoatUser\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserProfile.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserProfile.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "Title": "UserLichTrinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserLichTrinh.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\KiemSoatUser\\UserLichTrinh.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserLichTrinh.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\KiemSoatUser\\UserLichTrinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:52:55.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserLichTrinh.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserLichTrinh.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\KiemSoatUser\\UserLichTrinh.cs",
-              "ToolTip": "C:\\Users\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserLichTrinh.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserLichTrinh.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2024-04-15T10:52:55.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "BangDieuKhien.cs",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\BangDieuKhien.cs",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs",
               "RelativeToolTip": "WindowsFormsApp1\\BangDieuKhien.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAlwEwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-15T10:52:55.497Z"
+              "ViewState": "AQIAAD0AAAAAAAAAAAD4v0cAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:52:55.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "BangDieuKhien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\BangDieuKhien.cs",
-              "ToolTip": "C:\\Users\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-04-15T10:52:55.497Z"
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\BangDieuKhien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:52:55.497Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BangDieuKhien.resx",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.resx",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.resx",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\BangDieuKhien.resx",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.resx",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.resx",
               "RelativeToolTip": "WindowsFormsApp1\\BangDieuKhien.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
-              "WhenOpened": "2024-04-15T10:52:55.497Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-15T10:52:55.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "BangDieuKhien.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\BangDieuKhien.Designer.cs",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.Designer.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.Designer.cs",
               "RelativeToolTip": "WindowsFormsApp1\\BangDieuKhien.Designer.cs",
               "ViewState": "AQIAABwBAAAAAAAAAAAAABoBAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
-              "WhenOpened": "2024-04-15T10:52:55.497Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:52:55.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,80 +202,80 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:52:55.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UserThanhToan.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserThanhToan.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserThanhToan.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\KiemSoatUser\\UserThanhToan.cs",
-              "ToolTip": "C:\\Users\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserThanhToan.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserThanhToan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserThanhToan.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\KiemSoatUser\\UserThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:52:55.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "UserDatVe.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\KiemSoatUser\\UserDatVe.Designer.cs",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.Designer.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.Designer.cs",
               "RelativeToolTip": "WindowsFormsApp1\\KiemSoatUser\\UserDatVe.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:52:55.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "UserDatVe.cs",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs",
               "RelativeToolTip": "WindowsFormsApp1\\KiemSoatUser\\UserDatVe.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAADwvxIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:52:55.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:52:55.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:52:55.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "BangDieuKhien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\BangDieuKhien.cs",
               "ToolTip": "C:\\Users\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\BangDieuKhien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
               "WhenOpened": "2024-04-15T10:52:55.497Z"
             },
@@ -280,9 +283,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAADwvxgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -292,9 +295,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -304,10 +307,10 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chidu\\Downloads\\QuanLyBanVeXe\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
               "ToolTip": "C:\\Users\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dinhn\\OneDrive\\Desktop\\QuanLyBanVeXe\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
               "WhenOpened": "2024-04-15T10:52:55.512Z"
             }
